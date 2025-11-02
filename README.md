@@ -82,10 +82,11 @@ The dataset contains **5,000 simulated users across the UK**, with the following
 ## Installation & Running
 
 1. Clone the repository:
+
    ```bash
-   git clone https://github.com/<your-username>/ab-testing-streamlit.git
-   cd ab-testing-streamlit
-````
+   git clone https://github.com/jaheemedwards/A-B-Testing-Background-Colour.git
+   cd A-B-Testing-Background-Colour
+   ```
 
 2. Install dependencies:
 
@@ -117,5 +118,3 @@ Check out the live app [here](https://abtestingjaheemedwards.streamlit.app/).
 
 **Author:** Jaheem Edwards
 **License:** MIT
-
----
