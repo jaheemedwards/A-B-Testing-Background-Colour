@@ -105,7 +105,7 @@ The dataset contains **5,000 simulated users across the UK**, with the following
 
 ## Live Demo
 
-Check out the live app [here](https://<your-live-link>).
+Check out the live app [here](https://abtestingjaheemedwards.streamlit.app/).
 
 ---
 
